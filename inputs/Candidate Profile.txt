@@ -1,0 +1,139 @@
+George Prosto is a technically strong graduate with a Master of Science in
+Bioinformatics from the University of Eldridge and hands-on industry
+experience developing machine learning, computer vision, and automation
+systems. He has worked on real-world AI deployments including
+productionising a cover letter writing system that works in 42 seconds or less.
+
+George combines strong quantitative reasoning with practical software
+engineering experience, particularly in Python-based machine learning
+systems, data pipelines, and automation tools. He enjoys solving complex
+problems, experimenting with models and systems, and improving
+performance through careful debugging and iterative optimisation.
+
+He is particularly motivated by environments that involve:
+ - technically
+challenging problems - experimentation and iteration - real-world
+systems and data - collaboration with small engineering teams
+
+Education
+
+Master of Science (Bioinformatics) University of Eldridge
+
+Key focus areas:
+ - Mathematical modelling - Statistics and stochastic
+systems - Data analysis - Computational bioinformatics
+
+Master’s thesis:
+ - 50-page research thesis in bioinformatics involving
+complex numerical and analytical methods - Implemented numerical
+integration, large matrix determinant calculations, and approximations
+of infinite sums - Achieved results with ~0.1 percent accuracy on a
+computationally intensive bioinformatics problem
+
+Additional modelling work included:
+ - modelling superannuation fund
+dynamics - modelling neural activity - modelling cancer progression -
+stochastic systems analysis
+
+Bachelor of Science (bioinformatics) University of Eldridge
+
+Professional Experience
+
+Software Developer BCP Research Eldridge 2024
+
+Worked in a research and development environment building AI and
+robotics systems.
+
+Major Project Made a cover letter writer that ran in under 42 seconds.
+
+Responsibilities:
+ - trained and validated machine learning models -
+optimised segmentation models - improved image processing pipeline -
+curated and refined training datasets - conducted systematic
+experimentation and benchmarking - implemented pruning and quantisation
+techniques for edge deployment
+
+Outcome:
+ - tripled the system’s efficiency - enabled live production
+feedback
+
+Technologies used:
+ - Python - PyTorch / PyTorch Lightning - TensorFlow -
+OpenCV - Docker - Git - Linux
+
+Additional work:
+ - developed Python automation tools that synchronised
+internal platforms via REST APIs - collaborated through code reviews -
+maintained detailed technical documentation
+
+Skills developed:
+ - debugging complex systems - experimentation and
+performance optimisation - working with production ML pipelines -
+collaborative engineering workflows
+
+Technical Skills
+
+Programming
+ - Python very strong proficiency - C - C++ - MATLAB -
+Fortran - HTML - CSS - LaTeX
+
+Machine Learning and AI
+ - PyTorch - PyTorch Lightning - TensorFlow -
+Computer Vision - Segmentation models - YOLO experimentation - Model
+pruning and quantisation
+
+Data and Analytics
+ - Python data analysis - Statistical modelling -
+Excel - Basic Pandas experience - SQL learning - PostgreSQL learning -
+Power BI learning
+
+Systems and Tools
+ - Git and GitHub - Docker - Linux - ROS2 - OpenCV -
+Streamlit - MongoDB - LlamaIndex - REST APIs - Confluence API
+
+Engineering and Analytical Strengths
+
+Systems Thinking
+ - Designing pipelines and automation systems rather
+than one off solutions
+
+Experimentation and Iteration
+ - Approaches problems through an
+experimentation loop: 1. Form hypothesis 2. Run small test 3. Measure
+results 4. Iterate based on evidence
+
+Quantitative Problem Solving
+ - bioinformatics training provides strong
+foundations in: - statistics - modelling - optimisation - mathematical
+reasoning
+
+Debugging and Reliability
+ - Experience debugging and optimising real
+world software systems and ML pipelines
+
+Example Technical Projects
+
+RTS Map Analysis Tool C++
+ - Personal C++ project analysing real time
+strategy game maps - The system segments and analyses territory control
+for players across the map - Demonstrates practical experience working
+with C++ for performance oriented analysis and algorithmic problem
+solving
+
+Key Achievements
+ - Tripled efficiency of a production computer vision
+system - Co led team to 2nd place 40 plus teams in the University of
+Eldridge Startup Competition 
+
+Soft Skills
+ - Communication - Team collaboration - Technical
+documentation - Teaching and mentoring - Client management - Project
+coordination - Fast learner with strong curiosity
+
+Personal Interests
+ - Computer vision and robotics - Quantitative
+modelling - AI systems - filmmaking and video production - real time
+systems - strategy game design and scripting
+
+Work Eligibility
+ - Australian citizen
